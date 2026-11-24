@@ -57,6 +57,13 @@ and compact, which also helps the published tie-break
 (fewer bytes wins an exact tie on judge win rate). Line and
 rationale kept unchanged.
 
+Revision (second pass): re-checked the line — it works as a
+real auto-reply ("I'm out of office until Monday"), the joke
+is the forward to a future self who is also on holiday, and
+the twist sits in the last words. 105 characters, inside the
+140 gate, one line and nothing else. Line and rationale kept
+unchanged.
+
 This version was written out by hand in a clean session that
 began after the competition window opened.
 """
